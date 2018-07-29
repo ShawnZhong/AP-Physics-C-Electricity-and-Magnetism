@@ -1,0 +1,20 @@
+{
+	"author": "Shawn Zhong <public@shawnzhong.com>",
+	"plugins": [
+		"meta",
+		"katex",
+		"sitemap"
+	],
+	"pluginsConfig": {
+		"meta": {
+			"name": "google-site-verification",
+			"content": "3eQBIDWj-XG5D0n2-IjXMazHWLl8Gi1SHP-5x8Zd2pU"
+		},
+		"sitemap": {
+			"hostname": "https://mech.shawnzhong.com/"
+		}
+	},
+	"styles": {
+		"website": "website.css"
+	}
+}
