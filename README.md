@@ -1,5 +1,5 @@
 # [AP Physics C: Electricity and Magnetism](https://em.shawnzhong.com)
-Notes and Exercises on Advanced Placement Physics C: Electricity and Magnetism. I took notes based on the videos tutorials at [educator.com](https://www.educator.com/physics/ap-physics-c-electricity-magnetism/fullerton/) and the past exams collected below. You can download a PDF version of the notes  <a href="AP-Physics-C-Electricity-and-Magnetism.pdf"  target="_blank" >here</a>. 
+Notes and Exercises on Advanced Placement Physics C: Electricity and Magnetism. I took notes based on the videos tutorials at [educator.com](https://www.educator.com/physics/ap-physics-c-electricity-magnetism/fullerton/) and the past exams collected below. You can also download a PDF version of the notes  <a href="AP-Physics-C-Electricity-and-Magnetism.pdf"  target="_blank" >here</a>. 
 
 The source for the website is hosted on [GitHub](https://github.com/ShawnZhong/AP-Physics-C-Electricity-and-Magnetism). 
 
